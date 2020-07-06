@@ -1,1 +1,13 @@
-# da-ga-truc-tiep
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+  <script src="https://unpkg.com/video.js/dist/video.js"></script>
+  <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+
+
+  <video id="my_video_1" class="video-js vjs-default-skin" controls preload="auto" width="640" height="268" 
+  data-setup='{}'>
+    <source src="https://livedaga.top/hls/dagathomo.m3u8" type="application/x-mpegURL">
+  </video>
+  
+  <script>
+  </script>
+  
